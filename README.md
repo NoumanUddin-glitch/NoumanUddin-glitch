@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @NoumanUddin-glitch
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-NoumanUddin-glitch/NoumanUddin-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @NoumanUddin-glitch  
+👀 I’m interested in Information Technology, Finance, and Automation  
+🌱 I’m currently learning Python (with a focus on real-world projects)  
+💞️ I’m looking to collaborate on beginner-friendly Python tools and trackers  
+📫 How to reach me: nouman.uddin.dev@gmail.com (or drop a DM on GitHub)  
+😄 Pronouns: he/him  
+⚡ Fun fact: I love turning boring tasks into smart scripts 🚀  
